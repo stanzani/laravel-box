@@ -4,12 +4,12 @@
     "version": "0.0.2",
     "type": "library",
     "require": {
-        "illuminate/support": "^5.2",
-        "illuminate/database": "^5.2",
+        "illuminate/support": "^7",
+        "illuminate/database": "^7",
         "doctrine/dbal": "^2.5",
-        "guzzlehttp/guzzle": "^6.2",
-        "nesbot/carbon": "^1.22",
-        "illuminate/contracts": "^5.2"
+        "guzzlehttp/guzzle": "^6.5",
+        "nesbot/carbon": "^2",
+        "illuminate/contracts": "^7"
     },
     "license": "MIT",
     "authors": [
