@@ -1,7 +1,7 @@
 {
-    "name": "ryanvade/laravel-box",
+    "name": "stanzani/laravel-box",
     "description": "A Box.com API wrapper for Laravel.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "library",
     "require": {
         "illuminate/support": "^5.2",
